@@ -6,12 +6,10 @@ import GreetingsClass from './components/GreetingsClass';
 function App() {
   return (
     <div className="App">
-      <MyGreetings userName="NGIT Student" />
+      <MyGreetings userName="Nagireddy Student" />
       <GreetingsClass/>
     </div>
   );
 }
-
-
 
 export default App;
